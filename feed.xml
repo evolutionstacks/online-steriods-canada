@@ -18,55 +18,53 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.x862a70f86790d8f8b1aecdaa685752df a,.uff2c8a7b174aed1f0573ce9c5dc6db13 a{
-color:#0a0a0a!important;
-text-decoration: underline !important;
+.w49074041a2bbb045622b37b1caa54ba2:hover{
+box-shadow: 0 49.5px 50.4px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
-.uff2c8a7b174aed1f0573ce9c5dc6db13 p,.uff2c8a7b174aed1f0573ce9c5dc6db13 span,.uff2c8a7b174aed1f0573ce9c5dc6db13 label{
+.t134ab9702535101223c0b25155eef0a6 p,.t134ab9702535101223c0b25155eef0a6 a,.t134ab9702535101223c0b25155eef0a6 span,.t134ab9702535101223c0b25155eef0a6 label{
 font-size:16px!important;
 }
-.y4381601d14fe91694a44eadad5e12b56{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
-.uff2c8a7b174aed1f0573ce9c5dc6db13 a{
-font-size:16px;
-}
-.nav-item{
-padding-left:7.7px;
-padding-right:8.2px;
-padding-top:5.3px;
-padding-bottom:4.8px;
-}
-.x862a70f86790d8f8b1aecdaa685752df p,.x862a70f86790d8f8b1aecdaa685752df a,.x862a70f86790d8f8b1aecdaa685752df span,.x862a70f86790d8f8b1aecdaa685752df label{
-font-size:16px!important;
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
 }
 footer{
 background:#1a1a1a;
 color:#ffffff;
 }
-.btn-md{
-padding: 14.8px 29.6px;
-border-radius: 0;
-}
-a{
-text-decoration: none!important;
-}
-ul{
-list-style: circle;
-}
-.u3114d7b2fc9ba2438e5f1bf45b0d9700:hover{
-box-shadow: 0 49.7px 50.4px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.nav-link{
-color: #000000;
-
+.bbd718c9daff4dd89c7c91a26a161a78b a{
+font-size:16px;
+}
+.bbd718c9daff4dd89c7c91a26a161a78b p,.bbd718c9daff4dd89c7c91a26a161a78b span,.bbd718c9daff4dd89c7c91a26a161a78b label{
+font-size:16px!important;
+}
+.t134ab9702535101223c0b25155eef0a6 a,.bbd718c9daff4dd89c7c91a26a161a78b a{
+color:#090909!important;
+text-decoration: underline !important;
+}
+.nav-item{
+padding-left:8px;
+padding-right:8.4px;
+padding-top:4.5px;
+padding-bottom:5.5px;
+}
+a:hover{
+color:#ffffff;background:#ffc658!important;
+}
+ul{
+list-style: circle;
+}
+.btn-md{
+padding: 14.7px 30.5px;
+border-radius: 0;
 }
 html{
 scroll-behavior: smooth;
@@ -74,32 +72,34 @@ scroll-behavior: smooth;
 footer *{
 font-size:16px !important;
 }
-a:hover{
-color:#ffffff;background:#ffc658!important;
+.w28eb78e8705020d2c5104eafe98ec49f{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
-.navbar a{
-font-size: 17.6px!important;
-font-weight: bold;
+.nav-link{
+color: #000000;
+
 }
-*{
-font-family: 'Kumbh Sans', sans-serif;
+a{
+text-decoration: none!important;
 }
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/images.png" src="img/images.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center d-flex navbar-nav"><li class="nav-item ">
-<a class="ua75740f99319c4d086781a8046a26885 nav-link" href="index.html"  >Online Steroids Canada</a>
-</li><li class=" nav-item">
-<a class="nav-link ua75740f99319c4d086781a8046a26885" href="injectable-steroids.html"  >Injectable Steroids</a>
+<ul class="d-flex ml-auto navbar-nav align-items-center"><li class=" nav-item">
+<a class="nav-link zf116f9594a751c4cbe2616cd439dda99" href="index.html"  >Online Steroids Canada</a>
 </li><li class="nav-item ">
-<a class="nav-link ua75740f99319c4d086781a8046a26885" href="tablets-oral-steroids.html"  >Tablets Oral Steroids</a>
-</li><li class="nav-item"><a class="ua75740f99319c4d086781a8046a26885 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<a class="zf116f9594a751c4cbe2616cd439dda99 nav-link" href="injectable-steroids.html"  >Injectable Steroids</a>
+</li><li class="nav-item ">
+<a class="nav-link zf116f9594a751c4cbe2616cd439dda99" href="tablets-oral-steroids.html"  >Tablets Oral Steroids</a>
+</li><li class="nav-item"><a class="nav-link zf116f9594a751c4cbe2616cd439dda99" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="y4381601d14fe91694a44eadad5e12b56 btn-md btn" href="https://renewxpharma.com/contact-us/" rel="nofollow">Contact Us</a>
+<a class="w28eb78e8705020d2c5104eafe98ec49f btn btn-md" href="https://renewxpharma.com/contact-us/" rel="nofollow">Contact Us</a>
 </li>
 </ul>
 </div>
@@ -167,25 +167,25 @@ orders@renewxpharma.com</br>
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Renew X Pharma</p>
 <p>Email : orders@renewxpharma.com</p>
 <p>State : Canada</p>
-<p>Company Website : <a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/" rel="nofollow">https://renewxpharma.com/</a></p>
+<p>Company Website : <a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/" rel="nofollow">https://renewxpharma.com/</a></p>
 </div><div class="col-lg-3">
 <p>USEFUL LINKS</p>
-<p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/product-category/steroids/injectables/" rel="nofollow" target="_blank">Injectables Steroids</a></p><p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/product-category/steroids/tablets/" rel="nofollow" target="_blank">Tablets or Oral Steroids</a></p></div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
+<p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/product-category/steroids/injectables/" rel="nofollow" target="_blank">Injectables Steroids</a></p><p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/product-category/steroids/tablets/" rel="nofollow" target="_blank">Tablets or Oral Steroids</a></p></div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
  
-<p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/cutting-steroid-cycle-2/"  target="_blank">Cutting Steroid Cycle</a></p><p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/steroid-cycle-for-muscle-gain/"  target="_blank">Steroid Cycle for Muscle Gain</a></p><p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/bulking-steroid-cycles-2/"  target="_blank">Bulking Steroid Cycles</a></p><p><a class="ua75740f99319c4d086781a8046a26885" href="https://renewxpharma.com/product-guides/nolvadex-usage-guide/"  target="_blank">Nolvadex Usage Guide</a></p>
-<p><a class="ua75740f99319c4d086781a8046a26885" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="ua75740f99319c4d086781a8046a26885" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="ua75740f99319c4d086781a8046a26885" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/cutting-steroid-cycle-2/"  target="_blank">Cutting Steroid Cycle</a></p><p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/steroid-cycle-for-muscle-gain/"  target="_blank">Steroid Cycle for Muscle Gain</a></p><p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/bulking-steroid-cycles-2/"  target="_blank">Bulking Steroid Cycles</a></p><p><a class="zf116f9594a751c4cbe2616cd439dda99" href="https://renewxpharma.com/product-guides/nolvadex-usage-guide/"  target="_blank">Nolvadex Usage Guide</a></p>
+<p><a class="zf116f9594a751c4cbe2616cd439dda99" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="zf116f9594a751c4cbe2616cd439dda99" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="zf116f9594a751c4cbe2616cd439dda99" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/profile.php?id=61561221071996" class="facebook w144a4787547d3c7564af90fdcb92c38e" ><i class="fa fa-facebook"></i></a>
+<a href="https://www.facebook.com/profile.php?id=61561221071996" class="a1fab60b969263c4804116fad1319d765 facebook" ><i class="fa fa-facebook"></i></a>
 </div>
 </div></div>
 </div>
